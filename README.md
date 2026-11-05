@@ -1,6 +1,10 @@
 # Portal Quản Trị & Giám Sát Hệ Thống (my-first-vercel)
 
-Ứng dụng Single Page Application (SPA) hiện đại xây dựng trên nền tảng **React 19 + TypeScript + Vite 8**, tích hợp trực tiếp với backend **NestJS API** trên Render (`render1-api`) và cơ sở dữ liệu **Supabase PostgreSQL**, sẵn sàng triển khai tối ưu trên **Vercel**.
+Ứng dụng Single Page Application (SPA) hiện đại xây dựng trên nền tảng **React 19 + TypeScript + Vite 8**, tích hợp trực tiếp với backend **NestJS API** trên Render (`render1-api`) và cơ sở dữ liệu **Supabase PostgreSQL**, đã được triển khai chính thức trên **Vercel**.
+
+- 🌐 **Live Front-End URL (Vercel):** [https://vercel1-react.vercel.app](https://vercel1-react.vercel.app)
+- 🚀 **Live Backend API (Render):** [https://render1-api.onrender.com](https://render1-api.onrender.com)
+- 📖 **Scalar API Interactive Docs:** [https://render1-api.onrender.com/scalar](https://render1-api.onrender.com/scalar)
 
 ---
 
